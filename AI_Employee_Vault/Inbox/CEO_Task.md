@@ -1,0 +1,2 @@
+@@ -0,0 +1 @@
+"Draft a plan for my social media growth for the next week and save it in the AI_Employee_Vault/Dashboard/SocialPlan.md file. Use a professional tone."
